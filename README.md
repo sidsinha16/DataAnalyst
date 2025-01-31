@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# DataAnalyst
-=======
 Topics :
 - Python
     -Basic -> Data Types, Operators, List, Tuples, Dictonary, Set, Map, Filter, Lamda Expression
