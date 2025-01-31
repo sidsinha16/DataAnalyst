@@ -13,8 +13,4 @@ Topics :
 - Data Visualization
 - Microsoft Excel
 - Tableau
-<<<<<<< HEAD
 - Snowflake
-=======
-- Snowflake
->>>>>>> 082e893d81e41b93a499fb32591d84996f5887a9
