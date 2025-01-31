@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# DataAnalyst
-=======
 Topics :
 - Python
     -Basic -> Data Types, Operators, List, Tuples, Dictonary, Set, Map, Filter, Lamda Expression
@@ -18,7 +14,3 @@ Topics :
 - Microsoft Excel
 - Tableau
 - Snowflake
->>>>>>> 49e67ed (Initial commit)
-=======
-# DataAnalyst
->>>>>>> 8777591f034cb961ca42def7fc688b58f0a272f1
