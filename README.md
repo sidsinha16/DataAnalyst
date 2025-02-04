@@ -6,7 +6,7 @@ Topics :
       - Numpy - deals with 1D/2D/MD Arrays
 - Mathematics
 	- Statistics
-	- Statuistical Analysis
+	- Statistical Analysis
 - Data Analysis
 - Inferential Stats
 - Feature Engineering
