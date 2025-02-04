@@ -5,6 +5,8 @@ Topics :
       - Pandas -  Series and DataFrames
       - Numpy - deals with 1D/2D/MD Arrays
 - Mathematics
+	- Statistics
+	- Statuistical Analysis
 - Data Analysis
 - Inferential Stats
 - Feature Engineering
